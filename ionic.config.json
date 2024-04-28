@@ -1,0 +1,8 @@
+{
+  "name": "snappynote",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "56db418c"
+}
