@@ -1,0 +1,17 @@
+.light-theme {
+    --ion-background-color: #ffffff;
+    --ion-text-color: #000000;
+    // Add more theme-specific styles here
+    ion-label {
+        color: #ffffff; // Set the text color to black for light theme
+      }
+  }
+  
+  .dark-theme {
+    --ion-background-color: #000000;
+    --ion-text-color: #ffffff;
+    // Add more theme-specific styles here
+    ion-label {
+        color: #ffffff; // Set the text color to white for dark theme
+      }
+  }

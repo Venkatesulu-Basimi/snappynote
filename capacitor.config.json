@@ -1,0 +1,14 @@
+{
+    "appId": "io.ionic.starter",
+    "appName": "snappynote",
+    "webDir": "www",
+    "plugins": {
+      "SplashScreen": {
+        "launchShowDuration": 3000,
+        "launchAutoHide": true,
+        "backgroundColor": "#ffffff",
+        "splashFullScreen": true,
+        "splashImmersive": true
+      }
+    }
+  }
